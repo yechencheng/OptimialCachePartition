@@ -13,7 +13,11 @@ ProgX: footprint file of *x-th* program
 Cache is partitioned at the granularity of **strip** cache blocks, which is defined in *aux.h* and is 128 by default.
 
 ## Structure
-data/ : the footprints of selected SPEC CPU programs collected by Yechen Li (lccycc@qq.com).
+data/ : the footprints of selected SPEC CPU programs collected by Yechen Li.
 
 ## Contact
 Chencheng Ye (yechencheng@gmail.com)
+
+## Acknowledgment
+Thanks Yechen Li (lccycc@qq.com) for collecting the footprints
+
