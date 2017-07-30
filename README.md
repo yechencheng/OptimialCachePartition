@@ -15,5 +15,5 @@ Cache is partitioned at the granularity of **strip** cache blocks, which is defi
 ## Structure
 data/ : the footprints of selected SPEC CPU programs collected by Yechen Li (lccycc@qq.com).
 
-## Conatact
+## Contact
 Chencheng Ye (yechencheng@gmail.com)
