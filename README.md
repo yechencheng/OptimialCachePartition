@@ -3,7 +3,9 @@ g++ --std=c++11 -O2 -O OptimalPartition OptimalPartition.cpp
 
 ## Usage
 command CacheSize Prog1 Prog2 ...
+
 CacheSize : Cache sizes in MB
+
 ProgX: footprint file of *x-th* program
 
 ## Example
