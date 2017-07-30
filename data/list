@@ -1,0 +1,25 @@
+astar.dat
+bwaves.dat
+bzip2.dat
+dealII.dat
+gcc.dat
+h264ref.dat
+hmmer.dat
+lbm.dat
+libquantum.dat
+mcf.dat
+namd.dat
+omnetpp.dat
+perlbench.dat
+povray.dat
+sjeng.dat
+soplex.dat
+sphinix.dat
+sphinx3.dat
+tonto.dat
+wrf.dat
+zeusmp.dat
+
+duration.txt
+ACTION S.A.
+ACTINA SOLAR 210 X5 (Intel Xeon E5-2630)
